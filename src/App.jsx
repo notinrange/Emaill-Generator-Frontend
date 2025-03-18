@@ -12,7 +12,7 @@ function App() {
     setLoading(true);
     setError('');
     try {
-      const response = await axios.post("http://ec2-13-60-204-65.eu-north-1.compute.amazonaws.com/api/email/generate", {
+      const response = await axios.post("https://ec2-13-60-204-65.eu-north-1.compute.amazonaws.com/api/email/generate", {
        emailContent,
        tone 
       });
