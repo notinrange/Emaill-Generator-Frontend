@@ -12,7 +12,7 @@ npm install
 npm start
 ```
 
-for frontend follow readme file steps of this repository
+for Backend follow readme file steps of this repository
 
 [https://github.com/notinrange/Email-Generator-Backend](https://github.com/notinrange/Email-Generator-Backend)
 
