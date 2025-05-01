@@ -2,6 +2,7 @@
   "name": "email-writer-react",
   "version": "0.1.0",
   "private": true,
+  "proxy": "http://ec2-3-7-70-152.ap-south-1.compute.amazonaws.com:8080",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
