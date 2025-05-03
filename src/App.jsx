@@ -12,7 +12,7 @@ function App() {
     setLoading(true);
     setError('');
     try {
-      const response = await axios.post("http://ec2-3-7-70-152.ap-south-1.compute.amazonaws.com:8080/api/email/generate", {
+      const response = await axios.post("http://13.200.61.90:8080/api/email/generate", {
        emailContent,
        tone 
       });
