@@ -12,7 +12,8 @@ function App() {
     setLoading(true);
     setError('');
     try {
-      const response = await axios.post("http://13.200.61.90:8080/api/email/generate", {
+      // const response = await axios.post("http://13.200.61.90:8080/api/email/generate", {
+      const response = await axios.post("https://email-generator-1-0-snapshot.onrender.com/api/email/generate", {
        emailContent,
        tone 
       });
