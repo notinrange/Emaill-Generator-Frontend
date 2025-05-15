@@ -16,3 +16,12 @@ for Backend follow readme file steps of this repository
 
 [https://github.com/notinrange/Email-Generator-Backend](https://github.com/notinrange/Email-Generator-Backend)
 
+
+Frontend URL deployed on Render
+[https://emaill-generator-frontend.onrender.com/](https://emaill-generator-frontend.onrender.com/)
+
+Docker Image 
+[https://hub.docker.com/r/notinrange/email-generator](https://hub.docker.com/r/notinrange/email-generator)
+
+Backend URL
+[https://email-generator-1-0-snapshot.onrender.com](https://email-generator-1-0-snapshot.onrender.com)
